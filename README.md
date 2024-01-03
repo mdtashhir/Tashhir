@@ -1,7 +1,3 @@
-# Tashhir
-def findArea(r):
-    PI = 3.142
-    return PI * (r*r);
- 
-# Driver method
-print("Area is %.6f" % findArea(5));
+# 2024
+This is my firt project
+
